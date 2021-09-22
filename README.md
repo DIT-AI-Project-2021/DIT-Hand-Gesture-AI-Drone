@@ -1,4 +1,4 @@
 # Hand-Detect-GUI
 
-## GUI 변경 1차
+## Hand-detect-GUI.py 실행 화면
 ![드론](https://user-images.githubusercontent.com/65286862/134307769-8300a3fe-d2ef-4189-af34-2d5c8e44c056.png)
