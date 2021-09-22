@@ -45,23 +45,18 @@ win.resizable(False, False) # x축, y축 크기 조정 비활성화
 lbl = tk.Label(win, text="DIT AI Drone Controller", font='Helvetica 18 bold')
 lbl.grid(row=0, column=0) # 라벨 행, 열 배치
 
-label0 = tk.Label(win, text="WIFI: {}".format(tello.get_wifi()), fg='white', bg='black')
-label0.place(x=0, y=590, width=150, height=50)
-label1 = tk.Label(win, text='battery: {}'.format(tello.get_battery()), fg='white', bg='black')
-label1.place(x=150, y=590, width=150, height=50)
-label2 = tk.Label(win, text='temper: {}'.format(tello.get_temperature()), fg='white', bg='black')
-label2.place(x=300, y=590, width=150, height=50)
-label3 = tk.Label(win, text="height: {}".format(tello.get_height()), fg='white', bg='black')
-label3.place(x=450, y=590, width=150, height=50)
-label4 = tk.Label(win, text="tof distance: {}".format(tello.get_distance_tof()), fg='white', bg='black')
-label4.place(x=600, y=590, width=150, height=50)
-
-# # 버튼 추가
-# btnTakeOff = tk.Button(win, text="take-off", command=tello_takeoff)
-# btnTakeOff.grid(row=0, column=1)
-#
-# btnLand = tk.Button(win, text="land", command=tello_land)
-# btnLand.grid(row=0, column=2)
+label0 = tk.Label(win, text="WIFI: {}".format(tello.get_wifi()), fg='white', bg='black', font='Helvetica 11')
+label0.place(x=0, y=590, width=165, height=50)
+label1 = tk.Label(win, text='battery: {}'.format(tello.get_battery()), fg='white', bg='black', font='Helvetica 11')
+label1.place(x=150, y=590, width=165, height=50)
+label2 = tk.Label(win, text='temper: {}'.format(tello.get_temperature()), fg='white', bg='black', font='Helvetica 11')
+label2.place(x=300, y=590, width=165, height=50)
+label3 = tk.Label(win, text="height: {}".format(tello.get_height()), fg='white', bg='black', font='Helvetica 11')
+label3.place(x=450, y=590, width=165, height=50)
+label4 = tk.Label(win, text="tof distance: {}".format(tello.get_distance_tof()), fg='white', bg='black', font='Helvetica 11')
+label4.place(x=600, y=590, width=165, height=50)
+label5 = tk.Label(win, text="", fg='white', bg='black')
+label5.place(x=750, y=590, width=170, height=50)
 
 
 # 프레임 추가
@@ -150,4 +145,4 @@ def video_play():
 
 video_play()
 
-win.mainloop() #GUI 시작f
+win.mainloop() #GUI 시작
