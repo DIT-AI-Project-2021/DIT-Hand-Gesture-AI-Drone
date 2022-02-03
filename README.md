@@ -8,10 +8,10 @@
 
 
 ### System Diagram
-![image](https://user-images.githubusercontent.com/1857075/152446825-7b59206a-77dd-4e84-a76e-05ace1aa1e5c.png)
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152446825-7b59206a-77dd-4e84-a76e-05ace1aa1e5c.png">
 
 ### Definition of Hand Gesture
-![image](https://user-images.githubusercontent.com/1857075/152446817-732e1909-a57d-4965-908a-58b0132ca1e5.png)
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152446817-732e1909-a57d-4965-908a-58b0132ca1e5.png">
 
 ### Things used in this project
 * DJI Tello Drone : https://www.ryzerobotics.com/kr/tello
@@ -20,5 +20,5 @@
 * OpenCV Python : https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/65286862/136320507-e3fe3e04-4ff5-49ca-9d30-b02236d24cea.png)
+<img width="461" src=https://user-images.githubusercontent.com/65286862/136320507-e3fe3e04-4ff5-49ca-9d30-b02236d24cea.png>
 
