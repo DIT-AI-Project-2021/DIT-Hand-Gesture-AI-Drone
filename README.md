@@ -3,8 +3,6 @@
 ### YouTube Video
 [![Video Label](http://img.youtube.com/vi/EUd2fie0V3U/0.jpg)](https://youtu.be/EUd2fie0V3U)
 
-<hr>
-
 ### Motivation
 ![image](https://user-images.githubusercontent.com/1857075/152446819-4bca0324-e1d3-4e3c-a654-a3f5c77e57d1.png)
 
