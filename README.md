@@ -14,7 +14,7 @@
 
 ### Things used in this project
 * DJI Tello Drone : https://www.ryzerobotics.com/kr/tello
-* Python DJITelloPy module : https://djitellopy.readthedocs.io/en/latest/tello/
+* DJITelloPy module : https://djitellopy.readthedocs.io/en/latest/tello/
 * Google's Mediapile Hand Landmark model : https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html
 * OpenCV Python : https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
 * NVIDIA Jetson nano : https://developer.nvidia.com/embedded/jetson-nano-developer-kit
