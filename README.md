@@ -4,7 +4,7 @@
 [![Video Label](http://img.youtube.com/vi/EUd2fie0V3U/0.jpg)](https://youtu.be/EUd2fie0V3U)
 
 ### Motivation
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152446819-4bca0324-e1d3-4e3c-a654-a3f5c77e57d1.png"
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152446819-4bca0324-e1d3-4e3c-a654-a3f5c77e57d1.png">
 
 ### System Architecture
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152446825-7b59206a-77dd-4e84-a76e-05ace1aa1e5c.png">
