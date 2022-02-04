@@ -9,7 +9,7 @@
 ### System Architecture
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152446825-7b59206a-77dd-4e84-a76e-05ace1aa1e5c.png">
 
-### Definition of Hand Gesture
+### Definition of Hand Gestures
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152446817-732e1909-a57d-4965-908a-58b0132ca1e5.png">
 
 ### Things used in this project
